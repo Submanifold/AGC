@@ -1,2 +1,2 @@
 # AGC
-Source code of the work "Anisotropic Green Coordinates"
+Thanks for your interest in our work. The code will be available by November.
