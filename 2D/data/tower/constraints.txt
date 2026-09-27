@@ -1,0 +1,3 @@
+user_constraints_origin = [275, 103; 86, 874; 471, 874];
+user_constraints_deformed = [64, 181; 47, 874; 550 874];
+medial_points = [276, 168; 276, 289; 276, 396; 276, 503; 276, 575; 276, 702];
